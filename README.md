@@ -14,8 +14,8 @@ It supports context retention with **ConversationBufferMemory**, giving human-li
 ## ⚡ Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/FarazHussainAI250/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/FarazhussainAI250/Groq-Chatbot-with-Memory
+   
    ```
 
 2. Install dependencies:
