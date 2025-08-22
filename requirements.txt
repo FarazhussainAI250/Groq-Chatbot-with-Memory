@@ -1,0 +1,10 @@
+langchain
+langchain-groq
+langchain-community
+pandas
+python-dotenv
+langchain_huggingface
+langchain_core
+langchain-text-splitters
+ipykernel
+
